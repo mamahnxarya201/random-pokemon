@@ -2,7 +2,7 @@
 
 aplikasi yang menghasilkan random pokemon dari koneksi ke graphql server -> PokeAPI
 
-##Cara Setup
+## Cara Setup
 
 1.Clone
 
